@@ -11,6 +11,70 @@
         {
             "title": "Apa saja gejala COVID-19?",
             "data": "Gejala umum berupa demam ≥38C, batuk, pilek, nyeri tenggorokan dan sesak napas. Jika ada orang dengan gejala tersebut pernah melakukan perjalanan ke Tiongkok (terutama Wuhan), atau pernah merawat/kontak dengan penderita COVID-19, maka terhadap orang tersebut akan dilakukan pemeriksaan laboratorium lebih lanjut untuk memastikan diagnosisnya."
+        },
+        {
+            "title": "Seberapa bahaya COVID-19 ini?",
+            "data": "Seperti penyakit pernapasan lainnya, infeksi 2019-nCoV dapat menyebabkan gejala ringan termasuk pilek, sakit tenggorokan, batuk, dan demam. Beberapa orang mungkin akan menderita sakit yang parah, seperti disertai pneumonia atau kesulitan bernafas. Walaupun fatalitas penyakit ini masih jarang, namun bagi orang yang berusia lanjut, dan orang-orang dengan kondisi medis yang sudah ada sebelumnya (seperti, diabetes dan penyakit jantung), mereka biasanya lebih rentan untuk menjadi sakit parah."
+        },
+        {
+            "title": "Bagaimana manusia bisa terinfeksi COVID-19?",
+            "data": "Sampai saat ini, belum diketahui bagaimana manusia bisa terinfeksi virus ini. Para ahli masih sedang melakukan penyelidikan untuk menentukan sumber virus, jenis paparan, cara penularan dan pola klinis serta perjalanan penyakit. Hasil penyelidikan sementara dari beberapa institusi di kota Wuhan, sebagian kasus terjadi pada orang yang bekerja di pasar hewan/ikan, namun belum dapat dipastikan jenis hewan penular virus ini. Hingga saat ini dilaporkan adanya penularan antar manusia yang terbatas (antar keluarga dekat dan petugas kesehatan yang merawat kasus)."
+        },
+        {
+            "title": "Bisakah manusia terinfeksi novel coronavirus dari hewan?",
+            "data": "Saat ini sumber hewan penular COVID-19 belum diketahui, WHO terus menyelidiki berbagai kemungkinan jenis hewan penularnya. Sangat dimungkinkan hewan dari pasar hewan hidup di Tiongkok bertanggung jawab atas terinfeksinya manusia yang dilaporkan pertama kali. Untuk itu, disarankan pada saat berkunjung ke pasar hewan  hidup, hindari kontak langsung dengan hewan dan permukaan yang bersentuhan dengan hewan tanpa alat pelindung diri. \n\nHindari juga konsumsi produk hewani mentah atau setengah matang. Penanganan daging mentah, susu, atau produk hewani harus diperhatikan, untuk menghindari kontaminasi silang dengan makanan mentah yang lain, lakukanlah dengan memperhatikan keamanan pangan yang baik."
+        },
+        {
+            "title": "Benarkah COVID-19 berasal dari kelelawar atau hewan lainnya?",
+            "data": "Sampai saat ini hewan penular 2019-nCoV belum diketahui."
+        },
+        {
+            "title": "Apakah COVID-19 dapat ditularkan antar manusia?",
+            "data": "Ya, COVID-19 dapat ditularkan dari orang ke orang, biasanya setelah kontak erat dengan pasien yang terinfeksi, misalnya, di tempat kerja, di rumah tangga, atau fasilitas pelayanan kesehatan."
+        },
+        {
+            "title": "Berapa lama virus ini bertahan di permukaan benda?",
+            "data": "Sampai saat ini belum diketahui berapa lama 2019-nCoV bertahan di permukaan suatu benda, meskipun ada informasi awal yang menunjukkan dapat bertahan hingga beberapa jam. Namun desinfektan sederhana dapat membunuh virus tersebut sehingga tidak mungkin menginfeksi orang lagi."
+        },
+        {
+            "title": "Apakah sudah ada vaksin atau pengobatan spesifik untuk COVID-19?",
+            "data": "Belum ada vaksin atau pengobatan spesifik untuk virus ini. Namun, gejala yang disebabkan oleh virus ini dapat diobati. Oleh karena itu pengobatan harus didasarkan pada kondisi klinis pasien dan perawatan suportif dapat sangat efektif."
+        },
+        {
+            "title": "Apakah antibiotik efektif dalam mencegah dan mengobati COVID-19?",
+            "data": "Tidak, antibiotik tidak bekerja melawan virus, hanya bakteri. Novel Coronavirus (2019-nCoV) adalah virus. Oleh karena itu, antibiotik tidak boleh digunakan sebagai sarana pencegahan atau pengobatan. Namun, jika Anda dirawat di rumah sakit untuk COVID-19, Anda mungkin menerima antibiotik, karena infeksi sekunder bakteri mungkin terjadi."
+        },
+        {
+            "title": "Siapa saja yang berisiko terinfeksi COVID-19?",
+            "data": "Orang yang tinggal atau bepergian di daerah di mana virus 2019-nCoV bersirkulasi sangat mungkin berisiko terinfeksi. Saat ini, Tiongkok merupakan negara terjangkit COVID-19 dengan sebagian besar kasus telah dilaporkan. Mereka yang terinfeksi di negara lain adalah orang-orang yang belum lama ini bepergian dari Tiongkok atau yang telah tinggal atau bekerja secara dekat dengan para wisatawan, seperti anggota keluarga, rekan kerja atau tenaga medis yang merawat pasien sebelum mereka tahu pasien tersebut terinfeksi COVID-19.\n\nPetugas kesehatan yang merawat pasien yang terinfeksi COVID-19 berisiko lebih tinggi dan harus konsisten melindungi diri mereka sendiri dengan prosedur pencegahan dan pengendalian infeksi yang tepat."
+        },
+        {
+            "title": "Manakah yang lebih rentan terinfeksi COVID-19, apakah orang yang lebih tua, atau orang yang lebih muda?",
+            "data": "Tidak ada batasan usia orang-orang dapat terinfeksi COVID-19. Namun orang yang lebih tua dan orang-orang dengan kondisi medis yang sudah ada sebelumnya (seperti asma, diabetes, penyakit jantung) tampaknya lebih rentan untuk menderita sakit parah."
+        },
+        {
+            "title": "Bagaimana membedakan antara COVID-19 dengan influenza biasa?",
+            "data": "Orang yang terinfeksi 2019-nCoV dan influenza akan mengalami gejala infeksi saluran pernafasan yang sama, seperti demam, batuk dan pilek. Walaupun gejalanya sama, tapi penyebab virusnya berbeda-beda. Namun kesamaan gejala tersebut membuat kita sulit mengidentifikasi masing-masing penyakit tersebut, sehingga pemeriksaan laboratorium sangat diperlukan untuk mengkonfirmasi apakah seseorang terinfeksi 2019-nCoV.\n\nUntuk itulah WHO merekomendasikan setiap orang yang menderita demam, batuk, dan sulit bernapas harus mencari pengobatan sejak dini, dan memberitahukan petugas kesehatan jika mereka telah melakukan perjalanan dalam 14 hari sebelum muncul gejala, atau jika mereka telah melakukan kontak erat dengan seseorang yang sedang menderita gejala infeksi saluran pernafasan."
+        },
+        {
+            "title": "Berapa lama waktu yang diperlukan sejak tertular/terinfeksi hingga muncul gejala COVID-19?",
+            "data": "Waktu yang diperlukan sejak tertular/terinfeksi hingga muncul gejala disebut masa inkubasi. Saat ini masa inkubasi COVID-19 diperkirakan antara 2-11 hari, dan perkiraan ini dapat berubah sewaktu-waktu sesuai perkembangan kasus. Berdasarkan data dari penyakit akibat coronavirus sebelumnya, seperti MERS dan SARS, masa inkubasi COVID-19 juga bisa mencapai 14 hari."
+        },
+        {
+            "title": "Bisakah COVID-19 terdeteksi dari orang yang tidak menunjukkan gejala?",
+            "data": "Sangat penting untuk memahami kapan orang yang terinfeksi dapat menyebarkan virus ke orang lain untuk upaya pengendalian. Informasi medis terperinci dari orang yang terinfeksi diperlukan untuk menentukan periode infeksi COVID-19. Menurut laporan terbaru, ada kemungkinan orang yang terinfeksi COVID-19 dapat menular sebelum menunjukkan gejala yang signifikan. Namun, berdasarkan data yang tersedia saat ini, sebagian besar yang menyebabkan penyebaran adalah orang-orang yang memiliki gejala."
+        },
+        {
+            "title": "Amankah jika kita menerima paket barang dari Tiongkok atau negara lain yang melaporkan virus ini?",
+            "data": "Ya, aman. Orang yang menerima paket tidak berisiko tertular COVID-19. Dari pengalaman dengan coronavirus lain, kita tahu bahwa jenis virus ini tidak bertahan lama pada objek, seperti surat atau paket."
+        },
+        {
+            "title": "Apakah sudah ada pembatasan untuk bepergian ke Tiongkok?",
+            "data": "WHO sudah menetapkan COVID-19 sebagai Public Health Emergency of International Concern(PHEIC) atau Kegawatdaruratan Kesehatan Masyarakat yang Meresahkan Dunia pada tanggal 30 Januari 2020. Walaupun sampai saat ini WHO belum memberlakukan pembatasan perjalanan ke Tiongkok, namun beberapa negara sudah memberlakukan penghentian sementara penerbangan dari dan ke Tiongkok.\n\n- Sesuai arahan Presiden RI terkait perjalanan ke mainland Tiongkok, yaitu:\n\n- Seluruh penerbangan langsung dari dan ke mainland Tiongkok untuk sementara dihentikan mulai hari Rabu tanggal 5 Februari 2020 pukul 00.00.\n\n- Semua pendatang yang tiba dari mainland Tiongkok dan sudah berada di sana sebelumnya selama 14 hari, untuk sementara tidak diizinkan untuk masuk dan melakukan transit di Indonesia.\n\n- Kebijakan pemberian fasilitas bebas visa kunjungan dan visa on arrival untuk warga negara Tiongkok yang bertempat tinggal di mainland Tiongkok untuk sementara dihentikan.\n\n- Warga negara Indonesia untuk sementara tidak melakukan perjalanan ke mainland Tiongkok."
+        },
+        {
+            "title": "Bisakah hewan peliharaan menyebarkan COVID-19?",
+            "data": "Saat ini, belum ditemukan bukti bahwa hewan peliharaan seperti anjing atau kucing dapat terinfeksi virus 2019-nCoV. Namun, akan jauh lebih baik untuk selalu mencuci tangan dengan sabun dan air setelah kontak dengan hewan peliharaan. Kebiasaan ini dapat melindungi Anda terhadap berbagai bakteri umum seperti E.coli dan Salmonella yang dapat berpindah antara hewan peliharaan dan manusia."
         }
     ]
 }
